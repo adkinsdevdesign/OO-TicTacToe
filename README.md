@@ -9,6 +9,7 @@ SETUP: From terminal run "bundle install" to download Ruby gem requirements.
 PLAY: From terminal run "ruby bin/tictactoe" to initiate a game. Follow command line instructions and enjoy.
 
 BOARD LEGEND:
+
  1 | 2 | 3 
 -----------
  4 | 5 | 6
