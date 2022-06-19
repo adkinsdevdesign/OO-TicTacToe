@@ -10,8 +10,10 @@ PLAY: From terminal run "ruby bin/tictactoe" to initiate a game. Follow command 
 ## Board Legend:
 
  1 | 2 | 3 
- 4 | 5 | 6
- 7 | 8 | 9
+-----------
+ 4 | 5 | 6 
+-----------
+ 7 | 8 | 9 
 
 
 ## Contributors Guide
