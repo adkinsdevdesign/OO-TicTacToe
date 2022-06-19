@@ -84,12 +84,14 @@ class TicTacToe
     end
   
     def play
+      puts ""
       puts "Board Legend:"
       puts " 1 | 2 | 3 "
       puts "-----------"
       puts " 4 | 5 | 6 "
       puts "-----------"
       puts " 7 | 8 | 9 "
+      puts ""
       turn until over?
       if winner
         puts "Congratulations #{winner}!"
